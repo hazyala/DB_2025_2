@@ -625,7 +625,7 @@
         <mxCell id="XPRdV38EQKwc2ZnCuKqA-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XPRdV38EQKwc2ZnCuKqA-81" vertex="1">
           <mxGeometry y="280" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XPRdV38EQKwc2ZnCuKqA-139" value="공급일자" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#E7F0FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-138" vertex="1">
+        <mxCell id="XPRdV38EQKwc2ZnCuKqA-139" value="공급수량" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#E7F0FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-138" vertex="1">
           <mxGeometry width="76" height="40" as="geometry">
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1130,7 +1130,7 @@
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPRdV38EQKwc2ZnCuKqA-262" value="int" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-260" vertex="1">
+        <mxCell id="XPRdV38EQKwc2ZnCuKqA-262" value="Date" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-260" vertex="1">
           <mxGeometry x="76" width="75" height="40" as="geometry">
             <mxRectangle width="75" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1495,7 +1495,7 @@
             <mxRectangle width="76" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPRdV38EQKwc2ZnCuKqA-348" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-342" vertex="1">
+        <mxCell id="XPRdV38EQKwc2ZnCuKqA-348" value="FK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XPRdV38EQKwc2ZnCuKqA-342" vertex="1">
           <mxGeometry x="379" width="75" height="40" as="geometry">
             <mxRectangle width="75" height="40" as="alternateBounds" />
           </mxGeometry>
